@@ -1,0 +1,59 @@
+body {
+  font-family: sans-serif;
+
+}
+
+table ,th,td{
+  border: 2px solid black;
+  border-collapse: collapse;
+  border-color: blue;
+  border-radius: 10px;
+  text-align: center;
+  margin: auto;
+  
+}
+table,tr{
+  height: 70px;
+  font-size: 1.2rem;
+
+}
+th{
+  background-color: blue;
+  color: white;
+}
+
+.header {
+  
+  margin-left: 125px;
+
+}
+
+img {
+  margin-left: 1010px;
+}
+
+
+
+h1 {
+  color:#f4511e;
+}
+h4 {
+  width:89%;
+  text-align: right;
+
+}
+.btn {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  padding: 15px;
+  width: 170px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  border-radius: 10px;
+}
